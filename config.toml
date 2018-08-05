@@ -1,0 +1,4 @@
+baseURL = "https://ycnam.github.io/"
+languageCode = "ko-KR"
+title = "ycnam"
+theme = "ga-hugo-theme"
